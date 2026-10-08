@@ -1,0 +1,129 @@
+{
+  "recorded_at": "2026-10-07T15:23:45.955630+00:00",
+  "platform": "macOS-27.0-arm64-arm-64bit",
+  "python": "3.11.15",
+  "processor": "arm64",
+  "method": "Fresh child process for each repeat. Times generation, validation, SQL, and report assembly. Excludes imports, disk persistence, API, and UI. OS caches uncontrolled. Peak RSS includes interpreter and libraries. Synthetic data only.",
+  "results": [
+    {
+      "orders": 100,
+      "events": 319,
+      "elapsed_seconds": 0.0352,
+      "events_per_second": 9059.7,
+      "peak_rss_mib": 76.8,
+      "fingerprint": "f135e2ca7cf4efba2fdfb86c956d97ed5f986ac8d62838be301f5a1343679f00",
+      "checks_passed": true,
+      "repeat": 1
+    },
+    {
+      "orders": 100,
+      "events": 319,
+      "elapsed_seconds": 0.0166,
+      "events_per_second": 19229.9,
+      "peak_rss_mib": 76.5,
+      "fingerprint": "f135e2ca7cf4efba2fdfb86c956d97ed5f986ac8d62838be301f5a1343679f00",
+      "checks_passed": true,
+      "repeat": 2
+    },
+    {
+      "orders": 100,
+      "events": 319,
+      "elapsed_seconds": 0.0167,
+      "events_per_second": 19074.6,
+      "peak_rss_mib": 76.6,
+      "fingerprint": "f135e2ca7cf4efba2fdfb86c956d97ed5f986ac8d62838be301f5a1343679f00",
+      "checks_passed": true,
+      "repeat": 3
+    },
+    {
+      "orders": 1000,
+      "events": 3100,
+      "elapsed_seconds": 0.1126,
+      "events_per_second": 27524.4,
+      "peak_rss_mib": 127.8,
+      "fingerprint": "d23302366db380c55e07537aa5005974c05f4179d480cbbd356088020b0db821",
+      "checks_passed": true,
+      "repeat": 1
+    },
+    {
+      "orders": 1000,
+      "events": 3100,
+      "elapsed_seconds": 0.1107,
+      "events_per_second": 27994.1,
+      "peak_rss_mib": 127.7,
+      "fingerprint": "d23302366db380c55e07537aa5005974c05f4179d480cbbd356088020b0db821",
+      "checks_passed": true,
+      "repeat": 2
+    },
+    {
+      "orders": 1000,
+      "events": 3100,
+      "elapsed_seconds": 0.1092,
+      "events_per_second": 28376.4,
+      "peak_rss_mib": 127.8,
+      "fingerprint": "d23302366db380c55e07537aa5005974c05f4179d480cbbd356088020b0db821",
+      "checks_passed": true,
+      "repeat": 3
+    },
+    {
+      "orders": 5000,
+      "events": 15464,
+      "elapsed_seconds": 0.5645,
+      "events_per_second": 27396.0,
+      "peak_rss_mib": 258.4,
+      "fingerprint": "d95c7377d02b076ba3d1ce348295542bac0ece7a8cfc7755d2086ad0d644bdb5",
+      "checks_passed": true,
+      "repeat": 1
+    },
+    {
+      "orders": 5000,
+      "events": 15464,
+      "elapsed_seconds": 0.5507,
+      "events_per_second": 28082.8,
+      "peak_rss_mib": 258.5,
+      "fingerprint": "d95c7377d02b076ba3d1ce348295542bac0ece7a8cfc7755d2086ad0d644bdb5",
+      "checks_passed": true,
+      "repeat": 2
+    },
+    {
+      "orders": 5000,
+      "events": 15464,
+      "elapsed_seconds": 0.5571,
+      "events_per_second": 27757.3,
+      "peak_rss_mib": 258.5,
+      "fingerprint": "d95c7377d02b076ba3d1ce348295542bac0ece7a8cfc7755d2086ad0d644bdb5",
+      "checks_passed": true,
+      "repeat": 3
+    },
+    {
+      "orders": 33000,
+      "events": 102009,
+      "elapsed_seconds": 4.0762,
+      "events_per_second": 25025.3,
+      "peak_rss_mib": 988.4,
+      "fingerprint": "82672c1aea1b26c88ff264c74535c613375da3d9dbb752b1fd97115c182c120c",
+      "checks_passed": true,
+      "repeat": 1
+    },
+    {
+      "orders": 33000,
+      "events": 102009,
+      "elapsed_seconds": 4.0843,
+      "events_per_second": 24976.0,
+      "peak_rss_mib": 988.5,
+      "fingerprint": "82672c1aea1b26c88ff264c74535c613375da3d9dbb752b1fd97115c182c120c",
+      "checks_passed": true,
+      "repeat": 2
+    },
+    {
+      "orders": 33000,
+      "events": 102009,
+      "elapsed_seconds": 4.0688,
+      "events_per_second": 25071.0,
+      "peak_rss_mib": 988.3,
+      "fingerprint": "82672c1aea1b26c88ff264c74535c613375da3d9dbb752b1fd97115c182c120c",
+      "checks_passed": true,
+      "repeat": 3
+    }
+  ]
+}
